@@ -1,0 +1,25 @@
+You are an expert ATS parser.
+
+Task:
+Extract facts from the RESUME only. Do not infer missing details.
+
+Return valid JSON with this exact schema:
+{{
+  "skills": ["..."],
+  "experience_years": number,
+  "tools": ["..."],
+  "evidence": {{
+    "skills": ["short quotes from resume"],
+    "experience": ["short quotes from resume"],
+    "tools": ["short quotes from resume"]
+  }}
+}}
+
+Rules:
+- Do NOT assume skills not present in the resume.
+- Keep skills and tools deduplicated.
+- If experience is unclear, use 0.
+- Output JSON only, no markdown.
+
+RESUME:
+{resume_text}

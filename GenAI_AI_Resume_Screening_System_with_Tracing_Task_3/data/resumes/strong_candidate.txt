@@ -1,0 +1,17 @@
+Name: Priya Sharma
+
+Summary:
+Data Scientist with 5 years of experience building production machine learning systems in fintech and ecommerce.
+
+Experience:
+- Built churn prediction and pricing optimization models using Python, SQL, pandas, scikit-learn.
+- Designed A/B tests and statistical analyses to improve conversion by 12%.
+- Built NLP pipeline for customer support ticket classification.
+- Deployed batch inference workflows on AWS with monitoring dashboards.
+- Presented model insights and business recommendations to leadership.
+
+Skills:
+Python, SQL, Statistics, Machine Learning, Experimentation, NLP, Data Visualization
+
+Tools:
+pandas, scikit-learn, matplotlib, seaborn, AWS

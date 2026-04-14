@@ -1,0 +1,29 @@
+You are producing recruiter-friendly explainability output.
+
+Inputs:
+- Extracted resume JSON
+- Matching JSON
+- Scoring JSON
+
+Task:
+Return JSON:
+{{
+  "candidate_strengths": ["..."],
+  "candidate_gaps": ["..."],
+  "final_explanation": "4-6 sentence transparent reasoning with evidence"
+}}
+
+Rules:
+- Keep explanation specific and evidence based.
+- Mention why score is not higher when applicable.
+- Do not mention internal chain/prompt details.
+- Output JSON only.
+
+EXTRACTED_RESUME:
+{extracted_resume_json}
+
+MATCHING_JSON:
+{matching_json}
+
+SCORING_JSON:
+{scoring_json}

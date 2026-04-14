@@ -1,0 +1,264 @@
+===== STRONG_CANDIDATE =====
+{
+  "extracted_resume": {
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Machine Learning",
+      "Experimentation",
+      "NLP",
+      "Data Visualization"
+    ],
+    "experience_years": 5,
+    "tools": [
+      "pandas",
+      "scikit-learn",
+      "matplotlib",
+      "seaborn",
+      "AWS"
+    ],
+    "evidence": {
+      "skills": [
+        "Data Scientist",
+        "building production machine learning systems",
+        "using Python, SQL, pandas, scikit-learn",
+        "NLP pipeline for customer support ticket classification",
+        "Data Visualization"
+      ],
+      "experience": [
+        "5 years of experience building production machine learning systems"
+      ],
+      "tools": [
+        "using Python, SQL, pandas, scikit-learn",
+        "Deployed batch inference workflows on AWS",
+        "pandas, scikit-learn, matplotlib, seaborn, AWS"
+      ]
+    }
+  },
+  "matching": {
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Machine Learning",
+      "Experimentation",
+      "Data Visualization"
+    ],
+    "missing_skills": [
+      "MLOps tooling"
+    ],
+    "matched_tools": [
+      "pandas",
+      "scikit-learn",
+      "matplotlib",
+      "seaborn",
+      "AWS"
+    ],
+    "missing_tools": [
+      "GCP"
+    ],
+    "experience_gap_years": 0,
+    "match_summary": "The candidate has 5 years of experience in data science, matching the job requirements, with strong evidence of Python, SQL, and machine learning skills, as well as experience with required tools like pandas, scikit-learn, and AWS."
+  },
+  "scoring": {
+    "fit_score": 87,
+    "scoring_breakdown": {
+      "skills_score": 43,
+      "tools_score": 22,
+      "experience_score": 22
+    },
+    "scoring_rationale": "The candidate has a strong match in skills, with 6 out of 7 required skills met, resulting in a skills score of 43 (out of 50). The candidate also has a good match in tools, with 5 out of 6 required tools met, resulting in a tools score of 22 (out of 25). The candidate's experience fully matches the job requirements, resulting in an experience score of 22 (out of 25). The overall fit score is 87, with a slight penalty for missing MLOps tooling and GCP."
+  },
+  "explanation": {
+    "candidate_strengths": [
+      "Strong match in skills, with 6 out of 7 required skills met",
+      "Good match in tools, with 5 out of 6 required tools met",
+      "5 years of experience in data science, fully matching the job requirements"
+    ],
+    "candidate_gaps": [
+      "Missing MLOps tooling",
+      "Lack of experience with GCP"
+    ],
+    "final_explanation": "The candidate is a strong fit for the role, with a solid foundation in skills such as Python, SQL, and machine learning, as well as experience with required tools like pandas, scikit-learn, and AWS. The candidate's 5 years of experience in data science also fully matches the job requirements. However, the candidate's score is not higher due to the missing MLOps tooling and lack of experience with GCP, resulting in a fit score of 87. The candidate's skills and experience are well-documented, with evidence of building production machine learning systems and using relevant tools. Overall, the candidate has a strong profile, but could benefit from developing skills in MLOps tooling and cloud platforms like GCP.\n}"
+  }
+}
+
+===== AVERAGE_CANDIDATE =====
+{
+  "extracted_resume": {
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis",
+      "Basic Machine Learning",
+      "Data Visualization"
+    ],
+    "experience_years": 2.5,
+    "tools": [
+      "pandas",
+      "scikit-learn",
+      "Power BI"
+    ],
+    "evidence": {
+      "skills": [
+        "Data Analyst with 2.5 years of experience in analytics and reporting",
+        "Built dashboards and reports with Python and SQL",
+        "Performed trend analysis and created forecasting prototypes",
+        "Assisted in one classification project using scikit-learn"
+      ],
+      "experience": [
+        "2.5 years of experience in analytics and reporting"
+      ],
+      "tools": [
+        "Used pandas for data cleaning and feature generation",
+        "Assisted in one classification project using scikit-learn",
+        "Built dashboards and reports with Python and SQL"
+      ]
+    }
+  },
+  "matching": {
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Data Analysis",
+      "Basic Machine Learning",
+      "Data Visualization"
+    ],
+    "missing_skills": [
+      "statistics",
+      "experimentation",
+      "model evaluation",
+      "NLP"
+    ],
+    "matched_tools": [
+      "pandas",
+      "scikit-learn"
+    ],
+    "missing_tools": [
+      "cloud platforms (AWS or GCP)",
+      "MLOps tooling"
+    ],
+    "experience_gap_years": 0.5,
+    "match_summary": "The candidate has relevant skills in Python, SQL, and data analysis, and experience with pandas and scikit-learn, but lacks experience in statistics, experimentation, and model evaluation, and has a 0.5 year experience gap."
+  },
+  "scoring": {
+    "fit_score": 62,
+    "scoring_breakdown": {
+      "skills_score": 31,
+      "tools_score": 16,
+      "experience_score": 15
+    },
+    "scoring_rationale": "The candidate's fit score is 62, computed by weighting skills (50%), tools (25%), and experience (25%). The skills score is 31, as the candidate has some relevant skills but is missing critical ones like statistics and experimentation. The tools score is 16, as the candidate has experience with pandas and scikit-learn but lacks cloud platforms and MLOps tooling. The experience score is 15, considering the candidate's relevant experience but also a 0.5 year experience gap."
+  },
+  "explanation": {
+    "candidate_strengths": [
+      "Relevant skills in Python, SQL, and data analysis",
+      "Experience with pandas and scikit-learn",
+      "2.5 years of experience in analytics and reporting"
+    ],
+    "candidate_gaps": [
+      "Lack of experience in statistics, experimentation, and model evaluation",
+      "Missing skills in NLP",
+      "Limited experience with cloud platforms and MLOps tooling",
+      "0.5 year experience gap"
+    ],
+    "final_explanation": "The candidate has a strong foundation in Python, SQL, and data analysis, with relevant experience in analytics and reporting. They have also demonstrated proficiency in using pandas and scikit-learn. However, the candidate's score is not higher due to gaps in critical skills such as statistics, experimentation, and model evaluation. Additionally, the candidate lacks experience with cloud platforms and MLOps tooling, and has a 0.5 year experience gap. The candidate's fit score of 62 reflects these strengths and weaknesses, with a skills score of 31, tools score of 16, and experience score of 15. Overall, the candidate shows promise but requires further development in key areas to be a stronger fit.\n}"
+  }
+}
+
+===== WEAK_CANDIDATE =====
+{
+  "extracted_resume": {
+    "skills": [
+      "Excel",
+      "Communication",
+      "Reporting"
+    ],
+    "experience_years": 0,
+    "tools": [
+      "MS Excel",
+      "Google Sheets"
+    ],
+    "evidence": {
+      "skills": [
+        "Excel",
+        "Communication",
+        "Reporting"
+      ],
+      "experience": [
+        "Completed coursework",
+        "Internship in operations support",
+        "Created monthly KPI reports in Excel"
+      ],
+      "tools": [
+        "MS Excel",
+        "Google Sheets"
+      ]
+    }
+  },
+  "matching": {
+    "matched_skills": [],
+    "missing_skills": [
+      "Python",
+      "SQL",
+      "statistics",
+      "experimentation",
+      "model evaluation",
+      "Communication with non-technical stakeholders"
+    ],
+    "matched_tools": [],
+    "missing_tools": [
+      "pandas",
+      "scikit-learn",
+      "data visualization",
+      "AWS",
+      "GCP",
+      "NLP",
+      "MLOps tooling"
+    ],
+    "experience_gap_years": 3,
+    "match_summary": "The candidate lacks essential skills and experience for the Data Scientist role, with a significant gap in required technical skills and experience."
+  },
+  "scoring": {
+    "fit_score": 0,
+    "scoring_breakdown": {
+      "skills_score": 0,
+      "tools_score": 0,
+      "experience_score": 0
+    },
+    "scoring_rationale": "The candidate lacks all critical skills and tools, and has a significant experience gap, resulting in a fit score of 0."
+  },
+  "explanation": {
+    "candidate_strengths": [
+      "Excel",
+      "Communication",
+      "Reporting"
+    ],
+    "candidate_gaps": [
+      "Python",
+      "SQL",
+      "statistics",
+      "experimentation",
+      "model evaluation",
+      "Communication with non-technical stakeholders",
+      "pandas",
+      "scikit-learn",
+      "data visualization",
+      "AWS",
+      "GCP",
+      "NLP",
+      "MLOps tooling",
+      "3 years of experience"
+    ],
+    "final_explanation": "The candidate has demonstrated skills in Excel, Communication, and Reporting, with evidence of creating monthly KPI reports in Excel and completing coursework. However, the candidate lacks essential technical skills such as Python, SQL, and statistics, as well as experience with tools like pandas, scikit-learn, and data visualization. With 0 years of experience, the candidate has a significant experience gap of 3 years. The fit score of 0 reflects the candidate's lack of critical skills, tools, and experience, making them a less suitable fit for the Data Scientist role. The candidate's strengths in Excel and Communication are not sufficient to overcome the significant gaps in technical skills and experience. Overall, the candidate requires significant development in technic completing coursework. However, the candidate lacks essential technical skills such as Python, SQL, and statistics, as well as experience with tools like pandas, scikit-learn, and data visualization. With 0 years of experience, the candidate has a significant experience gap of 3 years. The fit score of 0 reflects the candidate's lack of critical skills, tools, and experience, making them a less suitable fit for the Data Scientist role. The candidate's strengths in Excel and Communication are not sufficient to overcome the significant gaps in technical skills and experience. Overall, the candidate requires significant development in technical skills and experience to be considered for the Data Scientist role."
+  }
+}
+
+ completing coursework. However, the candidate lacks essential technical skills such as Python, SQL, and statistics, as well as experience with tools like pandas, scikit-learn, and data visualization. With 0 years of experience, the candidate has a significant experience gap of 3 years. The fit score of 0 reflects the candidate's lack of critical skills, tools, and experience, making them a less suitable fit for the Data Scientist role. The candidate's strengths in Excel and Communication are not sufficient to overcome the significant gaps in technical skills and experience. Overall, the candidate requires significant development in technicication are not sufficient to overcome the significant gaps in technical skills and experience. Overall, the candidate requires significant development in technical skills and experience to be considered for the Data Scientist role."
+al skills and experience to be considered for the Data Scientist role."
+  }
+}
+
+Saved pipeline outputs to: D:\Downloads\GenAi\Gen-AI-Assignment-Tasks\GenAI_AI_Resume_Screening_System_with_Tracing_Task_3\output_results.json
+LangSmith tracing is enabled. Open LangSmith UI to inspect all steps and tags.

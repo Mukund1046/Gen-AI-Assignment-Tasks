@@ -1,0 +1,17 @@
+Name: Rahul Verma
+
+Summary:
+Data Analyst with 2.5 years of experience in analytics and reporting, transitioning to Data Science.
+
+Experience:
+- Built dashboards and reports with Python and SQL.
+- Performed trend analysis and created forecasting prototypes.
+- Used pandas for data cleaning and feature generation.
+- Assisted in one classification project using scikit-learn.
+- Presented findings to product and marketing teams.
+
+Skills:
+Python, SQL, Data Analysis, Basic Machine Learning, Data Visualization
+
+Tools:
+pandas, scikit-learn, Power BI

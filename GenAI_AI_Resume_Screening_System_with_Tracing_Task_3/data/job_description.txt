@@ -1,0 +1,15 @@
+Role: Data Scientist
+
+We are hiring a Data Scientist to build machine learning models and analytics solutions for business decision-making.
+
+Requirements:
+- 3+ years of experience in data science or machine learning roles
+- Strong Python and SQL skills
+- Experience with statistics, experimentation, and model evaluation
+- Hands-on work with pandas, scikit-learn, and data visualization
+- Familiarity with cloud platforms (AWS or GCP)
+- Ability to communicate insights to non-technical stakeholders
+
+Preferred:
+- Experience with NLP
+- Experience with MLOps tooling

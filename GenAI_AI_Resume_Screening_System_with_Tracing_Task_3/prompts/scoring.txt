@@ -1,0 +1,29 @@
+You are assigning a fit score for recruiter screening.
+
+Input:
+- Matching JSON
+
+Task:
+Return JSON:
+{{
+  "fit_score": number,
+  "scoring_breakdown": {{
+    "skills_score": number,
+    "tools_score": number,
+    "experience_score": number
+  }},
+  "scoring_rationale": "brief explanation of how the score was computed"
+}}
+
+Scoring constraints:
+- Score must be integer from 0 to 100.
+- skills_score + tools_score + experience_score must equal fit_score.
+- Use this default weighting guidance:
+  - skills: 50
+  - tools: 25
+  - experience: 25
+- Penalize missing critical requirements.
+- Output JSON only.
+
+MATCHING_JSON:
+{matching_json}

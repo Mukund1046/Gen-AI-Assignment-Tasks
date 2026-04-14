@@ -1,0 +1,15 @@
+Name: Neha Kapoor
+
+Summary:
+Recent graduate seeking an entry-level role in analytics.
+
+Experience:
+- Completed coursework in spreadsheets and business math.
+- Internship in operations support with data entry responsibilities.
+- Created monthly KPI reports in Excel.
+
+Skills:
+Excel, Communication, Reporting
+
+Tools:
+MS Excel, Google Sheets

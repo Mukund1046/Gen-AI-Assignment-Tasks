@@ -1,0 +1,28 @@
+You are evaluating resume-job match quality.
+
+Inputs:
+1) Extracted resume JSON
+2) Job description text
+
+Task:
+Compare resume evidence against the job requirements and return JSON:
+{{
+  "matched_skills": ["..."],
+  "missing_skills": ["..."],
+  "matched_tools": ["..."],
+  "missing_tools": ["..."],
+  "experience_gap_years": number,
+  "match_summary": "1-3 sentence objective summary"
+}}
+
+Rules:
+- Use only evidence from extracted resume JSON.
+- Do NOT invent strengths.
+- If uncertain, place item in missing.
+- Output JSON only.
+
+EXTRACTED_RESUME:
+{extracted_resume_json}
+
+JOB_DESCRIPTION:
+{job_description_text}
